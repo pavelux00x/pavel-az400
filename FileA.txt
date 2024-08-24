@@ -1,5 +1,4 @@
 FileA
 This is a change
 OMGOMG
-Ciao
-Ciao
+New merge feature
