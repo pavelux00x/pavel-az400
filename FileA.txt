@@ -2,3 +2,4 @@ FileA
 This is a change
 OMGOMG
 Ciao
+Ciao
