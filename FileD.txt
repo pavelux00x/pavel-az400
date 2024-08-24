@@ -2,3 +2,4 @@ Branch Feature
 New online
 
 Update made by branch FeatureA
+Change here in this file for the squash merge
