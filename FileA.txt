@@ -1,3 +1,4 @@
 FileA
 This is a change
 OMGOMG
+New merge feature
